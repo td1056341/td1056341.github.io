@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Hind Light'), local('Hind-Light'), url(http://fonts.gstatic.com/s/hind/v8/ovjfFuI0qshJ4pjW8a52hA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hind Regular'), local('Hind-Regular'), url(http://fonts.gstatic.com/s/hind/v8/nz5dxQAyXAGLFHmmJlZXFg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Hind Medium'), local('Hind-Medium'), url(http://fonts.gstatic.com/s/hind/v8/GSrOz960_Sk2fwhd1d3CUw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Hind SemiBold'), local('Hind-SemiBold'), url(http://fonts.gstatic.com/s/hind/v8/A-DXAAbcCXVlYOVdE3bANQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Hind Bold'), local('Hind-Bold'), url(http://fonts.gstatic.com/s/hind/v8/akA3ImRNyYfKy4MBs09Paw.ttf) format('truetype');
+}
